@@ -23,9 +23,9 @@ export default function ThankYou() {
       <p className="text-lg mb-4">We appreciate your support. Your ticket has been downloaded automatically.</p>
       <p className="text-md mb-6">To stay updated and receive event details, please join our official WhatsApp group:</p>
       <a
-        href="https://chat.whatsapp.com/HJEdKBjfl6XHJy6TPYieps?mode=r_c"
-        target="_blank"
-        rel="noopener noreferrer"
+  href="https://wa.me/message/5C4HVBPPFLJSI1"
+  target="_blank"
+  rel="noreferrer"
         className="bg-green-600 text-white py-2 px-4 rounded-full text-lg hover:bg-green-700"
       >
         Join WhatsApp Group
